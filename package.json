@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "npm run storybook": "nx storybook prism-kit",
-    "npm run test": "nx test prism-kit",
-    "npm run build": "nx build prism-kit"
+    "storybook": "nx storybook prism-kit",
+    "test": "nx test prism-kit",
+    "build": "nx build prism-kit"
   },
   "private": true,
   "dependencies": {
