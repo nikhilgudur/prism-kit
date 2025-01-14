@@ -1,0 +1,13 @@
+.prism-button {
+  padding: 0.5rem 1rem;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #ffffff;
+  background-color: #0070f3;
+  border-radius: 5px;
+}
+
+.prism-button--secondary {
+  background-color: #666666;
+}
