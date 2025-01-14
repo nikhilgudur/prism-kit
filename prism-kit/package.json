@@ -1,6 +1,6 @@
 {
   "name": "@prism-kit/core",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "main": "./index.js",
   "types": "./index.d.ts",
   "exports": {
@@ -8,5 +8,6 @@
       "import": "./index.mjs",
       "require": "./index.js"
     }
-  }
+  },
+  "license": "MIT"
 }
